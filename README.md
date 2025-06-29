@@ -1,10 +1,6 @@
-## Authors
-
-Created by [Phuc Truong](https://gitlab.com/phuctruonghoang) - hoangphuc1662@gmail.com
-
 ## License
 
-This project is 100% Open Source and licensed under the [APACHE2](https://github.com/phuctruonghoang/Infrastructure-as-Code/blob/main/Terraform/aws-backup-plan/LICENSE) for full details.
+GPL-3.0 license. See [LICENSE](LICENSE) for details.
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
