@@ -1,6 +1,6 @@
 ## License
 
-GPL-3.0 license. See [LICENSE](LICENSE) for details.
+Apache-2.0 license. See [LICENSE](LICENSE) for details.
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
